@@ -1,0 +1,9 @@
+Username,GroupName
+admin,AtmosConfigurationUsers
+admin,AtmosViewers
+admin,AtmosCommandUsers
+admin,AtmosCommandAdvancedUsers
+admin,AtmosSmtConfiguration
+admin,AtmosSmtOperator
+admin,AtmosSmtRedundancy
+
